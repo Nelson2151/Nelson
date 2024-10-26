@@ -1,0 +1,117 @@
+#first-look{
+    background-color: antiquewhite;
+    height: 50vh;
+    padding: 20vh;
+    text-align: center;
+
+}
+.top-image{
+    height : 130px;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    border-radius: 5%;
+}
+.middle-image{
+    height: 70px;
+    border-radius: 5%;
+    position: absolute;
+    top: 37%;
+    left: 30px;
+}
+.buttom-image{
+    height: 200px;
+    border-radius: 5%;
+    position: relative;
+    right: auto;
+}
+
+.first{
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.second{
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.images
+{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    }
+.container-1{
+    text-align: center;
+}
+.border{
+    margin: 30px;
+    border-radius: 50%;
+}
+.Greeting{
+    color: rgb(255, 164, 44);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    padding: 20px;
+    color: rgb(82, 81, 81);
+}
+hr{
+    border: dotted;
+    width: 5%;
+    border-bottom: none;
+    color: aquamarine;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.skills{
+    font-size: 20px;
+    font-weight: bold;
+    color: aqua;
+    text-align: center;
+}
+.skill{
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 300px 450px;
+    grid-template-rows: 1fr;
+    row-gap: 30px;
+    column-gap: 50px;
+}
+.titles{
+    color: rgb(0, 179, 255);
+    text-align: justify;
+}
+.quote{
+    text-align: justify;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.contact{
+    text-align: center;
+}
+.con{
+    font-size: 50px;
+    color: aqua;
+}
+.size{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(54, 196, 252);
+    border-radius: 8px;
+    border-color: rgb(54, 196, 252);
+}
+.a{
+    color: aliceblue;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 20px;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    
+
+}
